@@ -1,4 +1,4 @@
-**NLP Keyword Extraction from Articles**
+**Keywords with NLP**
 
 Project uses the NIPS (*Neural Information Processing Systems*) Papers. The files used can be found on the following URL:  [NIPS Papers](https://www.kaggle.com/benhamner/nips-papers/home)
 
