@@ -1,5 +1,8 @@
 **NLP Keyword Extraction from Articles**
 
+Project uses the NIPS (*Neural Information Processing Systems*) Papers. The files used can be found on the following URL:
+[NIPS](https://www.kaggle.com/benhamner/nips-papers/home)
+
   In this project I am using NLP (*Natural Language Processing*) to extract keywords from the Abstract of a document. This is completed using a series of different steps including a scoring system in conjunction with NLP. First, I correctly prepared the data by first loading the papers.csv document, then extracting the “Abstract” data into a data frame, allowing for better analysis. I also found the word count just to get a better understanding of which words are used the most.
 
   I began to pre-process the text by taking the text found in the abstract columns, and adding each word to a corpus, which is just a structured set of text. This corpus contains words that do not include punctuation, special characters, or digits. It was also “Lemmitized” and “Stemmered”, which essentially turns each word into its basic form, allowing for a cleaner analysis.
